@@ -25,7 +25,7 @@ form.addEventListener("click", (e) => {
 
 const getData = async () => {
   // api key'imizi değişken olarak atadık.
-  const API_KEY = "66d68b83cc1917c740dcc7ba91c868a1";
+  const API_KEY = "f09ebf2cab48dce63727effccf43bf7c";
   const cityName = input.value;
   const units = "metric";
 
